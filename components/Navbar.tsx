@@ -31,7 +31,7 @@ const Navbar = () => {
               src="https://github.com/shadcn.png"
               alt="Avatar Image"
             />
-            <AvatarFallback className="text-black">AA</AvatarFallback>
+            <AvatarFallback className="text-black">UP</AvatarFallback>
           </Avatar>
         </DropdownMenuTrigger>
         <DropdownMenuContent>
